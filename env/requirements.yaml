@@ -4,7 +4,7 @@ dependencies:
   version: 0.0.7
 - name: core-player-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.32
+  version: 0.0.35
 - name: core-team-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.94
